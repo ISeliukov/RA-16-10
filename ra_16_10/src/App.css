@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.redux_filter {
+  width: 500px;
+  margin: 10px auto;
+}
+.add_form {
+  display: flex;
+}
+.list-group-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.filter_form {
+  margin: 10px 0;
+}
